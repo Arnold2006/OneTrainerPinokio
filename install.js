@@ -4,7 +4,7 @@ module.exports = {
       method: "shell.run",
       params: {
         message: [
-          "git clone https://github.com/odiseum7/OneTrainer app",
+          "git clone https://github.com/Nerogar/OneTrainer app",
         ]
       }
     },
